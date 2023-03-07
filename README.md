@@ -14,10 +14,11 @@ JavaScript Code Quiz
 A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 
 ## Website
-[JavaScript Quiz Game]()
+[JavaScript Quiz Game](https://reignbtw.github.io/JS-Quiz/)
 
-## Screenshots
-![Question Screenshot](.\assets\imgs\quiz-screenshot.png)
+## Screenshots!
+
+![Question Screenshot](https://user-images.githubusercontent.com/112448428/223571804-a0689098-0d67-47bf-9c8d-a887d2fb1511.png)
 
 ## Code 
 * HTML

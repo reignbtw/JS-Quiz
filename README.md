@@ -17,7 +17,7 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 [JavaScript Quiz Game]()
 
 ## Screenshots
-![Question Screenshot](assets\imgs\quiz-screenshot.png)
+![Question Screenshot](.\assets\imgs\quiz-screenshot.png)
 
 ## Code 
 * HTML
